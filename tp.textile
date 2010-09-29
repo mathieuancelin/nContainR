@@ -1,0 +1,47 @@
+h1. ContainR Lite
+
+
+h2. 1. Conteneur de POJO et instanciation dynamique
+
+h3. a) Création du conteneur
+
+h3. b) Configuration des composants
+
+h3. c) Instanciation des composants
+
+
+h2. 2. Injection de dépendances
+
+h3. a) @Inject
+
+h3. b) Injection de type 4 : injection par champ
+
+h3. c) Injection de type 2 : injection par "setter"
+
+h3. d) Injection de type 3 : injection par constructeur
+
+
+h2. 3. Aspect Oriented Programming
+
+h3. a) Les proxy java
+
+h3. b) Les contextes d'invocation
+
+h3. c) @Intercept
+
+h3. d) @Before et @After
+
+
+h2. 4. Bonus
+
+h3. a) 
+
+h3. b) Détection des dépendances cycliques
+
+h3. c) Factories à la demande
+
+h3. d) Intercepteur injectables
+
+h3. e) Gestion basique du cycle de vie des composants
+
+h3. f) Configuration fluide
